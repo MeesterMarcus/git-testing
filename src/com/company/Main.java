@@ -5,5 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// change the message 4
         System.out.println("testing git functions");
+        System.out.println("blah blah blah");
+        System.out.println("fixed");
     }
 }
